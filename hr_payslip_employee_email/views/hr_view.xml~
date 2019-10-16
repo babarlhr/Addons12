@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+
+        <!--record id="view_hr_employee_inherit_payslip_by_email" model="ir.ui.view">
+            <field name="name">hr.employee.inherit.payslip.email</field>
+            <field name="model">hr.employee</field>
+            <field name="inherit_id" ref="hr.view_employee_form"/>
+            <field name="arch" type="xml">
+            	<field name="resources_calendar_id" position="after">
+                     <field name="payslip_by_email"/>
+                </field>   
+            </field>
+        </record-->
+
+       
+    </data>
+</openerp>
